@@ -24,7 +24,8 @@ With a Computer Science background, I specialize in developing scalable solution
 I have a keen interest in cloud computing and modern data architecture.
 
 🚀 What I’m currently working on:
-Implementing fraud detection systems and AML using graph databases and predictive machine learning 
+Implementing fraud detection systems and AML using graph databases & predictive machine learning in order to scale ML workloads (data, train, tune, serve) in Python that enables CI/CD workflows to continuously train and deploy better models.
+
 Feel free to check out my repositories and connect at https://www.linkedin.com/in/1309-sahil-negi/ | sahil.negi@mail.mcgill.ca
 
 <!---
