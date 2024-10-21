@@ -3,13 +3,21 @@ I’m a passionate Data Engineer with a strong foundation in Computer Science an
 My goal is to help businesses make data-driven decisions by turning raw data into actionable insights.
 
 🛠 Skills & Technologies:
+
 Programming: Python, SQL, C/C++
+
 Cloud Platforms: Azure, AWS
+
 Data Visualization: Power BI, Matplotlib, Seaborn
+
 Big Data Tools: Apache Kafka, Databricks
+
 Database Management: Azure Cosmos DB, Snowflake, SQL Server
+
 Data Ingestion & ETL: Azure Data Factory, Azure Synapse Analytics
+
 Machine Learning: Azure MLflow, VertexAI
+
 🎓 Background:
 With a Computer Science background, I specialize in developing scalable solutions for complex data problems, focusing on optimizing data pipelines, ensuring data quality, and enabling real-time data streaming.
 I have a keen interest in cloud computing and modern data architecture.
