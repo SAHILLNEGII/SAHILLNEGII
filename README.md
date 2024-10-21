@@ -5,19 +5,19 @@ My goal is to help businesses make data-driven decisions by turning raw data int
 
 🛠 Skills & Technologies:
 
-Programming: Python, SQL, C/C++
+👩‍💻Programming: Python, SQL, C/C++
 
-Cloud Platforms: Azure, AWS
+🚀Cloud Platforms: Azure, AWS
 
-Data Visualization: Power BI, Matplotlib, Seaborn
+📑Data Visualization: Power BI, Matplotlib, Seaborn
 
-Big Data Tools: Apache Kafka, Databricks
+💻Big Data Tools: Apache Kafka, Databricks
 
-Database Management: Azure Cosmos DB, Snowflake, SQL Server
+🐙Database Management: Azure Cosmos DB, Snowflake, SQL Server
 
-Data Ingestion & ETL: Azure Data Factory, Azure Synapse Analytics
+📈Data Ingestion & ETL: Azure Data Factory, Azure Synapse Analytics
 
-Machine Learning: Azure MLflow, VertexAI
+ 💹Machine Learning: Azure MLflow, VertexAI
 
 🎓 Background:
 With a Computer Science background, I specialize in developing scalable solutions for complex data problems, focusing on optimizing data pipelines, ensuring data quality, and enabling real-time data streaming.
