@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/1309-sahil-negi/" target="blank">
-Sahil</a></h1>
+Sahil!</a></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;The%20more%20I%20read,%20the%20more%20I%20acquire,%20the%20more%20certain%20I%20am%20that%20I%20know%20nothing%20&center=true&width=500&height=50"></a>
@@ -15,10 +15,8 @@ Sahil</a></h1>
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://giffiles.alphacoders.com/360/36000.gif">
 </a>
-
-👋 Hi, I'm Sahil Negi!
 
 I’m a passionate Data Engineer with a strong foundation in Computer Science and expertise in building robust data pipelines, processing large-scale datasets, and creating insightful visualizations.
 My goal is to help businesses make data-driven decisions by turning raw data into actionable insights.
